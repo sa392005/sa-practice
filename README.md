@@ -1,2 +1,2 @@
 # sa-practice
-for practicing github
+for practicing github.
